@@ -16,7 +16,6 @@ This J2EE Application is designed for the Customer Service department of ABC Com
 - MVC Architecture
 - Security Measures (Form Validation, Access Controls, Encryption)
 - Feedback Func### Web Forms
-  User-friendly forms have been implemented for account creation, product registration, claim submission, and feedback. These forms include proper validation to ensure data accuracy.
 
 ### Functionality
 
