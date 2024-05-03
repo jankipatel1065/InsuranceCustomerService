@@ -15,7 +15,6 @@ This J2EE Application is designed for the Customer Service department of ABC Com
 - MySQL Workbench
 - MVC Architecture
 - Security Measures (Form Validation, Access Controls, Encryption)
-- Feedback Func### Web Forms
 
 ### Functionality
 
